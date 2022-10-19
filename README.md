@@ -1,2 +1,2 @@
 # whatsapp-chat-analyzer
-_**A streamlit app to analyze your whatsapp chats...**_
+_**A streamlit app to analyze your whatsapp chats.**_
